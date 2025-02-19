@@ -1,0 +1,46 @@
+_repo: History-as-literature-and-other-essays_75294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2025-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75294'
+  lccn: '13020807'
+language: en
+pgterms:marc904: https://archive.org/details/historyasliterat0000roos
+pgterms:marc905: 20220510232422roosevelt
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'Roosevelt, Theodore, 1858-1919 -- Views on history'
+- !lcsh 'Presidents -- United States -- Views on history'
+- !lcsh 'Presidents -- United States -- Intellectual life'
+- !lcsh 'Literature and history'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: History as literature -- Biological analogies in history -- The world
+  movement -- Citizenship in a republic -- The thraldom of names -- Productive scholarship
+  -- Dante and the Bowery -- The foundations of the nineteenth century -- The search
+  for truth in a reverent spirit -- The ancient Irish sagas -- An art exhibition.
+title: History as literature, and other essays
+url: http://www.gutenberg.org/ebooks/75294
